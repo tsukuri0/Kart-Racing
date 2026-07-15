@@ -315,14 +315,6 @@ This project allowed me to gain practical experience in:
 
 **Alexandr Bunesco**
 
-Bachelor Thesis
-
-Faculty of Mathematics and Computer Science
-
-State University of Moldova
-
-
-
 
 ML-Agents Release 9 (Version 1.5.0 in Package Manager) with Unity 2022.3.46f1
 
