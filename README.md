@@ -19,23 +19,11 @@ The trained model is exported in **ONNX** format and integrated directly into Un
 
 # Project Preview
 
-
 ![Gameplay Preview](Gameplay.png)
 
-Training Environment
+## Training Environment
 
-```
-![alt text](Gameplay.png)
-
-
-
-Training Environment
-
-
-AI vs Player
-```
-
----
+![Training Environment](TensorBoard.png)
 
 # Features
 
