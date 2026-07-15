@@ -21,6 +21,10 @@ The trained model is exported in **ONNX** format and integrated directly into Un
 
 > Add screenshots or GIFs here.
 
+![Gameplay Preview](Gameplay.png)
+
+Training Environment
+
 ```
 ![alt text](Gameplay.png)
 
