@@ -19,7 +19,6 @@ The trained model is exported in **ONNX** format and integrated directly into Un
 
 # Project Preview
 
-> Add screenshots or GIFs here.
 
 ![Gameplay Preview](Gameplay.png)
 
@@ -31,8 +30,6 @@ Training Environment
 
 
 Training Environment
-
-<img width="799" height="303" alt="{C161076A-34BC-4FAC-9704-BD962C4FA2E7}" src="https://github.com/user-attachments/assets/dcec3493-6a64-448c-9b44-95900c33d434" />
 
 
 AI vs Player
