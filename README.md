@@ -22,7 +22,8 @@ The trained model is exported in **ONNX** format and integrated directly into Un
 > Add screenshots or GIFs here.
 
 ```
-<img width="1136" height="629" alt="{EBBFEE2F-0C8A-466D-87BE-3EC60B7F09FF}" src="https://github.com/user-attachments/assets/35dc1973-c889-4776-a071-3074e88c2bca" />
+
+
 
 
 Training Environment
