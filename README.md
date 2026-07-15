@@ -23,7 +23,7 @@ The trained model is exported in **ONNX** format and integrated directly into Un
 
 ## Training Environment
 
-![Training Environment](TensorBoard.png)
+![Training](TensorBoard.png)
 
 # Features
 
